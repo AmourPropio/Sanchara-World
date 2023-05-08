@@ -224,7 +224,7 @@ section
 .parallax-window
 {
     min-height: 400px;
-    background: transparent;
+    background: url("/static/images/why.jpg");
 }
 .parallax_background
 {

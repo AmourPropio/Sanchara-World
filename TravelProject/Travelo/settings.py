@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'travelproject.urls'
+ROOT_URLCONF = 'Travelo.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'travelproject.wsgi.application'
+WSGI_APPLICATION = 'Travelo.wsgi.application'
 
 
 # Database
